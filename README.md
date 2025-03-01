@@ -1,4 +1,4 @@
-# Bitwarden Subset Extractor
+# Bitwarden Vault Subset
 
 A Python utility to extract a subset of passwords from a Bitwarden vault export based on keywords.
 
@@ -24,8 +24,8 @@ This tool helps you create a filtered subset of passwords from a Bitwarden vault
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/bitwarden-subset-extractor.git
-cd bitwarden-subset-extractor
+git clone https://github.com/bearyjd/Bitwarden_Vault_Subset.git
+cd Bitwarden_Vault_Subset
 ```
 
 No additional dependencies are required beyond the Python standard library.
